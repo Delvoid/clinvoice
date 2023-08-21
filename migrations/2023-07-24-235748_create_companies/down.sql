@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS invoices;
+DROP TABLE IF EXISTS company_clients;
+DROP TABLE IF EXISTS clients;
+DROP TABLE IF EXISTS companies;
+DROP TABLE IF EXISTS items;
